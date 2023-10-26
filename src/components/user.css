@@ -1,0 +1,29 @@
+body {
+  background: #000;
+}
+div h1 {
+  color: #ccc;
+  text-align: center;
+}
+table {
+  border-radius: 10px;
+  margin: auto;
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+}
+th,
+tr,
+td {
+  text-transform: uppercase;
+  border: 1px solid #ccc;
+  padding: 1rem;
+}
+th {
+  text-align: left;
+  background-color: wheat;
+}
+td {
+  background-color: rgb(177, 244, 244);
+  border-radius: 5px;
+  text-align: left;
+}
